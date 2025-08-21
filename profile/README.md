@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="boras-frontend-react banner" />
+</p>
+
 # 💫 About:
 🎓 This page contains my school projects from Yrkeshögskolan i Borås<br><br>
 
