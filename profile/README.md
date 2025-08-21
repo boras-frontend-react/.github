@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="boras-frontend-react banner" />
+  <img src="profile/banner.png" alt="boras-frontend-react banner" />
 </p>
 
 # 💫 About:
