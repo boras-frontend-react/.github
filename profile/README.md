@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/profile/banner.png" alt="boras-frontend-react banner" />
+  <img src="https://github.com/boras-frontend-react/.github/blob/94e4faf8d2b953d6511899c253ca9582be231e0f/profile/banner.png?raw=true" alt="boras-frontend-react banner" />
  
 </p>
 
